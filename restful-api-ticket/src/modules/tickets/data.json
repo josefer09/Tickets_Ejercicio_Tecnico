@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Fix login bug",
+    "state": "OPEN",
+    "priority": "HIGH"
+  },
+  {
+    "title": "Update user profile UI",
+    "state": "IN_PROGRESS",
+    "priority": "MEDIUM"
+  },
+  {
+    "title": "Improve database performance",
+    "state": "OPEN",
+    "priority": "HIGH"
+  },
+  {
+    "title": "Add forgot password feature",
+    "state": "CLOSED",
+    "priority": "LOW"
+  },
+  {
+    "title": "Refactor ticket service",
+    "state": "IN_PROGRESS",
+    "priority": "MEDIUM"
+  },
+  {
+    "title": "Refactor ticket service 2",
+    "state": "IN_PROGRESS",
+    "priority": "MEDIUM"
+  },
+  {
+    "title": "Refactor ticket service 3",
+    "state": "IN_PROGRESS",
+    "priority": "MEDIUM"
+  }
+]
